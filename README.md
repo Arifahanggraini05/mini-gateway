@@ -8,7 +8,8 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="./minigateway.png" alt="Mini Gateway Banner">
+  <img src="./1.png" alt="Mini Gateway Banner">
+  <img src="./2.png" alt="Mini Gateway Banner">
 </p>
 
 # Mini Gateway
@@ -40,6 +41,7 @@ making it an ideal foundation for **IoT gateways**, **sensor nodes**, or **micro
 -  **Lightweight & Extensible** – Easily add sensors, MQTT, or service-layer logic.
 
 ---
+<img src="./hasil.png" alt="Mini Gateway Banner">
 
 ## Hardware Requirements
 | Component | Description |
@@ -64,7 +66,7 @@ making it an ideal foundation for **IoT gateways**, **sensor nodes**, or **micro
 Once the firmware is uploaded:
 
 1. The device starts its own Wi-Fi network:  
-SSID: SetupD1Mini
+SSID: Kelompokdudung
 Password: 12345678
 
 2. Connect to it and open a browser at **http://192.168.4.1**  
