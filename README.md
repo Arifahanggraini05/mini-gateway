@@ -8,8 +8,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="./1.jpg" alt="Mini Gateway Banner">
-  <img src="./2.jpg" alt="Mini Gateway Banner">
+  <img src="./1.jpg" alt="Mini Gateway Banner">  <img src="./2.jpg" alt="Mini Gateway Banner">
 </p>
 
 # Mini Gateway
