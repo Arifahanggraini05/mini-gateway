@@ -8,8 +8,8 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="./1.png" alt="Mini Gateway Banner">
-  <img src="./2.png" alt="Mini Gateway Banner">
+  <img src="./1.jpg" alt="Mini Gateway Banner">
+  <img src="./2.jpg" alt="Mini Gateway Banner">
 </p>
 
 # Mini Gateway
@@ -41,7 +41,7 @@ making it an ideal foundation for **IoT gateways**, **sensor nodes**, or **micro
 -  **Lightweight & Extensible** – Easily add sensors, MQTT, or service-layer logic.
 
 ---
-<img src="./hasil.png" alt="Mini Gateway Banner">
+<img src="./hasil.jpg" alt="Mini Gateway Banner">
 
 ## Hardware Requirements
 | Component | Description |
